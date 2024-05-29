@@ -13,3 +13,8 @@ else:
     print("No good!")
 
 ## Task 2: Mix and Match Combine arithmetic (+), logical (or), and comparison (>) operators in a single expression and predict the outcome. Then, compute the expression to see if the prediction was correct.
+
+
+x = 5 + 10
+if x < 25 and x > 12:
+    print(True)
